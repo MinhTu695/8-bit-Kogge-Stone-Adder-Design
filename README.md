@@ -1,4 +1,4 @@
-<img width="764" height="684" alt="image" src="https://github.com/user-attachments/assets/c0d6b959-5e82-4566-b6b0-f10e79b1651e" /><img width="1267" height="791" alt="image" src="https://github.com/user-attachments/assets/6a7ef050-d2f7-415f-a7d8-4a2d2ff1e5c9" /># 8-bit Kogge-Stone Adder (Full Digital ASIC Flow)
+# 8-bit Kogge-Stone Adder (Full Digital ASIC Flow)
 
 ## Overview
 Thiết kế bộ cộng 8-bit kiến trúc Kogge-Stone nhằm tối ưu hóa đường critical path trong các khối ALU tốc độ cao. Dự án được triển khai qua đầy đủ các bước của quy trình thiết kế ASIC kỹ thuật số.
