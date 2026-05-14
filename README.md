@@ -30,6 +30,6 @@ Thiết kế bộ cộng 8-bit kiến trúc Kogge-Stone nhằm tối ưu hóa đ
 
 ### Timing
 <img width="764" height="684" alt="image" src="https://github.com/user-attachments/assets/fb9f423e-5703-4414-8b7a-e075a838729a" />
-Hold Time
+
 <img width="722" height="684" alt="image" src="https://github.com/user-attachments/assets/2a85a54d-a05c-486b-be07-b6b0feb03a78" />
-Setup Time
+
