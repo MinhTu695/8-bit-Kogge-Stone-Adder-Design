@@ -1,0 +1,18 @@
+****************************************
+Report : clock
+Design : KoggeStoneAdder8bit
+Version: M-2016.12-SP1
+Date   : Thu May  7 11:21:00 2026
+****************************************
+
+
+Attributes:
+    p - Propagated clock
+    G - Generated  clock
+    I - Inactive   clock
+
+Clock          Period   Waveform            Attrs     Sources        Voltage Config
+-----------------------------------------------------------------------------------
+clk              0.50   {0 0.25}                      {clk}
+
+1

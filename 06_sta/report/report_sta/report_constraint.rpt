@@ -1,0 +1,21 @@
+****************************************
+Report : constraint
+	-all_violators
+	-path slack_only
+Design : KoggeStoneAdder8bit
+Version: M-2016.12-SP1
+Date   : Thu May  7 11:21:00 2026
+****************************************
+
+
+
+
+   max_area
+
+                             Required        Actual
+   Design                       Area           Area          Slack
+   -----------------------------------------------------------------
+   KoggeStoneAdder8bit          0.00         111.72        -111.72  (VIOLATED)
+
+
+1

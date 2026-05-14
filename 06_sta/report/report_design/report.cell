@@ -1,0 +1,197 @@
+****************************************
+Report : cell
+Design : KoggeStoneAdder8bit
+Version: M-2016.12-SP1
+Date   : Thu May  7 11:21:00 2026
+****************************************
+
+Attributes:
+    b - black-box (unknown)
+    h - hierarchical
+    n - noncombinational
+    u - contains unmapped logic
+    A - abstracted timing model
+    E - extracted timing model
+    S - Stamp timing model
+    Q - Quick timing model (QTM)
+    I - ideal network
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+Co_reg                    DFF_X1          NangateOpenCellLibrary_typ
+                                                              4.52  n
+S_reg[0]                  DFF_X1          NangateOpenCellLibrary_typ
+                                                              4.52  n
+S_reg[1]                  DFF_X1          NangateOpenCellLibrary_typ
+                                                              4.52  n
+S_reg[2]                  DFF_X1          NangateOpenCellLibrary_typ
+                                                              4.52  n
+S_reg[3]                  DFF_X1          NangateOpenCellLibrary_typ
+                                                              4.52  n
+S_reg[4]                  DFF_X1          NangateOpenCellLibrary_typ
+                                                              4.52  n
+S_reg[5]                  DFF_X1          NangateOpenCellLibrary_typ
+                                                              4.52  n
+S_reg[6]                  DFF_X1          NangateOpenCellLibrary_typ
+                                                              4.52  n
+S_reg[7]                  DFF_X1          NangateOpenCellLibrary_typ
+                                                              4.52  n
+U23                       AOI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U24                       NOR2_X1         NangateOpenCellLibrary_typ
+                                                              0.80  
+U25                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U26                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U27                       OAI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U28                       OAI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U29                       AND2_X1         NangateOpenCellLibrary_typ
+                                                              1.06  
+U30                       OAI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U31                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U32                       OAI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U33                       NOR2_X1         NangateOpenCellLibrary_typ
+                                                              0.80  
+U34                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U35                       AOI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U36                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U37                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U38                       NOR2_X1         NangateOpenCellLibrary_typ
+                                                              0.80  
+U39                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U40                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U41                       NOR2_X1         NangateOpenCellLibrary_typ
+                                                              0.80  
+U42                       AND2_X1         NangateOpenCellLibrary_typ
+                                                              1.06  
+U43                       AOI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U44                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U45                       AOI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U46                       OAI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U47                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U48                       AND2_X1         NangateOpenCellLibrary_typ
+                                                              1.06  
+U49                       NOR2_X1         NangateOpenCellLibrary_typ
+                                                              0.80  
+U50                       XNOR2_X1        NangateOpenCellLibrary_typ
+                                                              1.60  
+U51                       OAI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U52                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U53                       NOR2_X1         NangateOpenCellLibrary_typ
+                                                              0.80  
+U54                       NOR2_X2         NangateOpenCellLibrary_typ
+                                                              1.33  
+U55                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U56                       OAI211_X1       NangateOpenCellLibrary_typ
+                                                              1.33  
+U57                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U58                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U59                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U60                       OR2_X1          NangateOpenCellLibrary_typ
+                                                              1.06  
+U61                       OR2_X1          NangateOpenCellLibrary_typ
+                                                              1.06  
+U62                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U63                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U64                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U65                       AOI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U66                       OR2_X1          NangateOpenCellLibrary_typ
+                                                              1.06  
+U67                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U68                       NOR2_X1         NangateOpenCellLibrary_typ
+                                                              0.80  
+U69                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U70                       OR2_X1          NangateOpenCellLibrary_typ
+                                                              1.06  
+U71                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U72                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U73                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U74                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U75                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U76                       XNOR2_X1        NangateOpenCellLibrary_typ
+                                                              1.60  
+U77                       AND2_X1         NangateOpenCellLibrary_typ
+                                                              1.06  
+U78                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U79                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U80                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U81                       XOR2_X1         NangateOpenCellLibrary_typ
+                                                              1.60  
+U82                       AND2_X1         NangateOpenCellLibrary_typ
+                                                              1.06  
+U83                       OAI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U84                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U85                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U86                       XNOR2_X1        NangateOpenCellLibrary_typ
+                                                              1.60  
+U87                       AND2_X1         NangateOpenCellLibrary_typ
+                                                              1.06  
+U88                       INV_X1          NangateOpenCellLibrary_typ
+                                                              0.53  
+U89                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U90                       XNOR2_X1        NangateOpenCellLibrary_typ
+                                                              1.60  
+U91                       AND2_X1         NangateOpenCellLibrary_typ
+                                                              1.06  
+U92                       AOI21_X1        NangateOpenCellLibrary_typ
+                                                              1.06  
+U93                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U94                       XOR2_X1         NangateOpenCellLibrary_typ
+                                                              1.60  
+U95                       AND2_X1         NangateOpenCellLibrary_typ
+                                                              1.06  
+U96                       NAND2_X1        NangateOpenCellLibrary_typ
+                                                              0.80  
+U97                       XNOR2_X1        NangateOpenCellLibrary_typ
+                                                              1.60  
+U98                       AND2_X1         NangateOpenCellLibrary_typ
+                                                              1.06  
+U99                       AND2_X1         NangateOpenCellLibrary_typ
+                                                              1.06  
+--------------------------------------------------------------------------------
+Total 86 cells                                              111.72
+
+
+1

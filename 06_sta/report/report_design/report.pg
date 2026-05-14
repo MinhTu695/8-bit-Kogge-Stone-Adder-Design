@@ -1,0 +1,17 @@
+****************************************
+Report : path_group
+Design : KoggeStoneAdder8bit
+Version: M-2016.12-SP1
+Date   : Thu May  7 11:21:00 2026
+****************************************
+
+Path_Group     Weight   From      Through        To
+--------------------------------------------------------------------------------
+**async_default**
+                 1.00   -         -              -
+**clock_gating_default**
+                 1.00   -         -              -
+**default**      1.00   -         -              -
+clk              1.00   *         *              clk
+
+1
