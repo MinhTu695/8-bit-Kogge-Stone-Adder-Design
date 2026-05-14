@@ -1,0 +1,29 @@
+Command: vcs +vcs+dumpvars -full64 -sverilog -R -debug_access+r+w +no_notifier +notimingcheck \
++nospecify -f /home/albert/Desktop/KoggeStone_8bit_adder/03_verif/verif/scripts/rtl.f \
+/home/albert/Desktop/KoggeStone_8bit_adder/03_verif/verif/sv/testtop.sv -l /home/albert/Desktop/KoggeStone_8bit_adder/03_verif/sim_result/sim.log \
+
+                         Chronologic VCS (TM)
+       Version M-2017.03-SP2_Full64 -- Thu May  7 01:28:59 2026
+               Copyright (c) 1991-2017 by Synopsys Inc.
+                         ALL RIGHTS RESERVED
+
+This program is proprietary and confidential information of Synopsys Inc.
+and may be used and disclosed only as authorized in a license agreement
+controlling such use and disclosure.
+
+The design hasn't changed and need not be recompiled. 
+If you really want to, delete file simv.daidir/.vcs.timestamp and
+run VCS again.
+
+Command: /home/albert/Desktop/KoggeStone_8bit_adder/03_verif/verif/scripts/./simv +vcs+dumpvars +no_notifier +notimingcheck +nospecify -a /home/albert/Desktop/KoggeStone_8bit_adder/03_verif/sim_result/sim.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version M-2017.03-SP2_Full64; Runtime version M-2017.03-SP2_Full64;  May  7 01:28 2026
+VCD+ Writer M-2017.03-SP2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+$finish called from file "/home/albert/Desktop/KoggeStone_8bit_adder/03_verif/verif/sv/testtop.sv", line 67.
+$finish at simulation time                95000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 95000 ps
+CPU Time:      0.130 seconds;       Data structure size:   0.0Mb
+Thu May  7 01:28:59 2026
+CPU time: .150 seconds in simulation
