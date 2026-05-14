@@ -1,0 +1,31 @@
+ 
+****************************************
+Report : area
+Design : KoggeStoneAdder8bit
+Version: L-2016.03-SP1
+Date   : Thu May  7 03:09:49 2026
+****************************************
+
+Information: Updating design information... (UID-85)
+Library(s) Used:
+
+    NangateOpenCellLibrary_typ (File: /home/albert/Desktop/KoggeStone_8bit_adder/04_synth/lib/NangateOpenCellLibrary_typical.db)
+
+Number of ports:                           28
+Number of nets:                           105
+Number of cells:                           86
+Number of combinational cells:             77
+Number of sequential cells:                 9
+Number of macros/black boxes:               0
+Number of buf/inv:                         16
+Number of references:                      12
+
+Combinational area:                 71.022000
+Buf/Inv area:                        8.512000
+Noncombinational area:              40.697999
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:                   111.719998
+Total area:                 undefined
+1
